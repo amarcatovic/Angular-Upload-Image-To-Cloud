@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-cloudinary-file-upload"
+    }
+  },
+  "defaultProject": "angular-cloudinary-file-upload",
+  "cli": {
+    "analytics": "3958ec36-db40-435a-800e-6e417f3eada6"
+  }
 }
