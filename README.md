@@ -48,7 +48,7 @@ imports: [
 $ ng g s services/cloudinary
 ```
 
-| Service | [https://github.com/amarcatovic/Angular-Upload-Image-To-Cloud/blob/master/src/app/services/cloudinary.service.ts][cloudinary.service.ts] |
+| Service | [cloudinary.service.ts](https://github.com/amarcatovic/Angular-Upload-Image-To-Cloud/blob/master/src/app/services/cloudinary.service.ts) |
 
 ### Create Upload File Component
 
@@ -56,7 +56,7 @@ $ ng g s services/cloudinary
 $ ng g c upload-file
 ```
 
-| Component | [https://github.com/amarcatovic/Angular-Upload-Image-To-Cloud/tree/master/src/app/upload-file][upload-file component] |
+| Component | [upload-file component](https://github.com/amarcatovic/Angular-Upload-Image-To-Cloud/tree/master/src/app/upload-file) |
 
 Inject the service as public
 
